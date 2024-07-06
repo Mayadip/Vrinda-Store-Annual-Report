@@ -1,6 +1,6 @@
 # Vrinda-Store-Annual-Report
 
-Steps Covered-
+Steps Covered using Excel-
 1. Requirement gathering from client
 2. Identify the Stakeholders of the Project
 3. Data cleaning as per the requirement
