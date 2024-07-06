@@ -1,6 +1,6 @@
 # Vrinda-Store-Annual-Report
 
-Created an annual sales report of the store to understand their customer and grow more sales in upcoming years.
+Created an annual sales report of the store to understand their customers and grow more sales in upcoming years.
 
 Steps Covered using Excel-
 1. Requirement gathering from client
